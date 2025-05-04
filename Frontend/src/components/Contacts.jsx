@@ -1,6 +1,6 @@
 import React from 'react';
 
-function contacts() {
+function Contacts() {
   return (
     <>
       <div className='border-gray-100 w-screen h-screen flex flex-col justify-center items-center'>
@@ -49,4 +49,4 @@ function contacts() {
   )
 }
 
-export default contacts;
+export default Contacts;
